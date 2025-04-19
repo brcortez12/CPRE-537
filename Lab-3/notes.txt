@@ -1,0 +1,4 @@
+AP MAC      - 00:0C:42:64:B2:65
+Alice MAC   - 00:0c:42:64:b2:6c
+Bob MAC     - 00:0c:42:64:b0:8d
+Mallory MAC - 00:0c:42:3a:b4:08
